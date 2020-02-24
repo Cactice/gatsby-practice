@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `ハッカソン参加暦`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Yuya Kanai / ハッカソン参加暦`,
+    description: `About hackathons between 2018 and 2019`,
     author: `@gatsbyjs`,
   },
   plugins: [
